@@ -80,9 +80,14 @@ target/
 # Sonmi Jupyter Code Example
 SonmiPythonExamples.ipynb
 
+# Class test
+API_practice.ipynb
+random_numbers.ipynb
+
 # IPython
 profile_default/
 ipython_config.py
+config.py
 
 # pyenv
 .python-version
