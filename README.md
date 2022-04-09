@@ -19,7 +19,7 @@ It was quite a jouney, but ultimately met a goal where the world weather is anal
 #### It might be fun to juggle around the user credetials to fiter the available spots around the world in a blink of an eye to sort the hotels that are nearby.  
 
 The World map random selections by perfect tempoture
-![Australia South beach vacation spot](Vacation_Search/WeatherPy_vacation_map.PNG)
+![Vacation Search](Vacation_Search/WeatherPy_vacation_map.png)
 
 Here is an example of Australia South beach tour:
 
