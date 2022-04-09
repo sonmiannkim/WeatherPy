@@ -1,0 +1,62 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Benjamin Hill,MX,80.89,scattered clouds,30.1667,-111.1,Hotel Benjamín Hill
+3,Progreso,MX,75.31,few clouds,21.2833,-89.6667,Playa Linda Hotel
+4,Saint George,US,81.19,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+9,Hurricane,US,79.27,clear sky,37.1753,-113.2899,Super 8 by Wyndham Hurricane Zion National Park
+11,Fallon,US,73.27,broken clouds,39.4735,-118.7774,Best Western Fallon Inn & Suites
+38,El Dorado,US,73.26,overcast clouds,38.7666,-120.5177,South Fork Group Campground
+51,Ensenada,MX,75.51,broken clouds,31.8667,-116.6167,Best Western El Cid
+62,Carson City,US,70.63,clear sky,39.1638,-119.7674,Courtyard by Marriott Carson City
+68,Del Rio,US,75.31,clear sky,29.3627,-100.8968,"Holiday Inn Express & Suites del Rio, an IHG Hotel"
+75,Caborca,MX,80.87,clear sky,30.5838,-111.101,Hotel Los Lagos
+89,Cabano,PH,80.89,light rain,10.5869,122.7002,The Clara Beach and Guest House (official)
+91,Winnemucca,US,71.65,clear sky,40.973,-117.7357,Winners Inn Casino
+127,Lompoc,US,73.54,haze,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
+151,Isla Vista,US,83.98,clear sky,34.4133,-119.861,Best Western Plus South Coast Inn
+158,Hollister,US,74.17,clear sky,36.8525,-121.4016,Hollister Inn
+168,Adelanto,US,82.83,few clouds,34.5828,-117.4092,Days Inn Adelanto-Victorville
+191,Canton,CN,78.75,clear sky,23.1167,113.25,Shangjiuwan Hotel
+206,Port Hueneme,US,84.79,few clouds,34.1478,-119.1951,Hampton Inn Channel Islands Harbor
+214,Safford,US,76.12,clear sky,32.834,-109.7076,SpringHill Suites by Marriott Thatcher
+218,Saint-Raphael,HT,73.53,overcast clouds,19.4333,-72.2,Adouly Hôtel
+221,Marsh Harbour,BS,73.06,overcast clouds,26.5412,-77.0636,Abaco Beach Resort
+256,Pahrump,US,82.51,clear sky,36.2083,-115.9839,Best Western Pahrump Oasis
+269,Butte,US,82.62,clear sky,39.6499,-121.5677,Meadowbrook Oaks Mobile Home Park
+285,Sidney,AU,73.35,broken clouds,-33.8679,151.2073,The Grace Sydney
+325,Billings,US,71.37,broken clouds,45.7833,-108.5007,Best Western Plus Clocktower Inn
+340,Dublin,US,77.7,clear sky,37.7021,-121.9358,Larkspur Landing Pleasanton
+341,Princeton,US,70.0,clear sky,25.5384,-80.4089,American Best Inn
+376,Fremont,US,78.51,clear sky,37.5483,-121.9886,Best Western Plus Garden Court Inn
+377,Praxedis Guerrero,MX,72.86,clear sky,31.3667,-106.0167,Congregación placitas de Otero
+379,Cumpas,MX,72.77,clear sky,29.9833,-109.7833,Hotel La Palma
+382,Ojinaga,MX,72.55,clear sky,29.5667,-104.4167,Suites Las Palmas
+387,Yucaipa,US,84.2,clear sky,34.0336,-117.0431,Yucaipa Regional Park
+399,Green Valley,US,84.27,clear sky,31.8543,-110.9937,Best Western Green Valley Inn
+405,Bagotville,AU,77.02,broken clouds,-28.9833,153.4167,Broadwater Sunrise Caravan Park
+421,Puerto Penasco,MX,79.92,broken clouds,31.3167,-113.5333,Playa Bonita Resort
+444,Charlestown,AU,73.69,broken clouds,-32.95,151.6667,Panorama Motor Inn Hotel
+447,Belmont,US,74.16,haze,37.5202,-122.2758,"Holiday Inn Express & Suites Belmont, an IHG Hotel"
+453,Ridgecrest,US,84.69,clear sky,35.6225,-117.6709,SpringHill Suites by Marriott Ridgecrest
+466,Dixon,US,84.34,clear sky,38.4455,-121.8233,Best Western Plus Dixon Davis
+471,San Felipe,VE,72.59,overcast clouds,10.3399,-68.7425,Posada Llovizna Rodríguez
+487,Tulare,US,76.33,few clouds,36.2666,-118.8009,Puppy
+496,Maneadero,MX,77.11,overcast clouds,31.7167,-116.5667,Casa De Thompson
+530,Camalu,MX,70.99,few clouds,30.85,-116.0667,La Cueva del Pirata
+548,Socorro,US,73.18,clear sky,31.6546,-106.3033,guarderia imss papalote
+566,Geraldton,AU,70.21,overcast clouds,-28.7667,114.6,Broadwater Mariner Resort
+598,Enterprise,US,84.74,few clouds,36.0252,-115.2419,Las Vegas Motorcoach Resort
+615,Seaforth,JM,79.65,broken clouds,17.9358,-76.4573,"Stewart Field, Seaforth P.O., St. Thomas"
+616,Woodland,US,84.34,few clouds,38.6785,-121.7733,Hampton Inn & Suites Woodland-Sacramento Area
+620,Trinidad,BO,75.61,overcast clouds,-14.8333,-64.9,Hotel Piesta
+624,Deloraine,AU,70.59,overcast clouds,-41.5333,146.6667,Mountain View Country Inn
+628,Chico,US,84.29,clear sky,39.7285,-121.8375,Quality Inn Near Chico State
+642,Linda,US,84.54,clear sky,39.1277,-121.5508,Comfort Suites Marysville-Yuba City
+743,Oroville,US,84.4,clear sky,39.5138,-121.5564,"Holiday Inn Express & Suites Oroville Lake, an IHG Hotel"
+758,Boulder City,US,84.85,clear sky,35.9786,-114.8325,Boulder Dam Hotel
+773,Kingston,JM,79.75,few clouds,17.997,-76.7936,The Jamaica Pegasus Hotel
+777,Martinez,US,74.7,broken clouds,38.0194,-122.1341,Best Western John Muir Inn
+779,Altar,MX,78.4,scattered clouds,30.7,-111.8167,Hotel Maria Elena
+806,Carpinteria,US,81.37,clear sky,34.3989,-119.5185,"Holiday Inn Express & Suites Carpinteria, an IHG Hotel"
+811,Estacion Coahuila,MX,84.25,scattered clouds,32.1939,-115.0017,Hotel Las Cabañas
+822,Kingman,US,79.05,clear sky,35.1894,-114.053,Rodeway Inn Kingman Route 66
+825,Lodi,US,84.65,overcast clouds,38.1302,-121.2725,Wine & Roses
