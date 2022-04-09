@@ -1,62 +1,334 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
-0,Benjamin Hill,MX,80.89,scattered clouds,30.1667,-111.1,Hotel Benjamín Hill
 3,Progreso,MX,75.31,few clouds,21.2833,-89.6667,Playa Linda Hotel
-4,Saint George,US,81.19,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+5,Kerrville,US,63.55,clear sky,30.0474,-99.1403,Inn Of The Hills Hotel & Conference Center
 9,Hurricane,US,79.27,clear sky,37.1753,-113.2899,Super 8 by Wyndham Hurricane Zion National Park
+10,Taos,US,55.8,clear sky,36.4072,-105.5731,El Monte Sagrado
 11,Fallon,US,73.27,broken clouds,39.4735,-118.7774,Best Western Fallon Inn & Suites
+15,Brandon,US,68.11,clear sky,27.9378,-82.2859,Embassy Suites by Hilton Tampa Brandon
+18,Vidalia,US,60.75,overcast clouds,32.2177,-82.4135,Quality Inn & Suites
+25,Spearfish,US,50.09,clear sky,44.4908,-103.8594,Travelodge by Wyndham Spearfish
+26,Groton,US,50.76,clear sky,41.3501,-72.0784,Red Roof Inn Mystic - New London
+28,El Reno,US,53.33,clear sky,35.5323,-97.955,Home2 Suites by Hilton El Reno
+29,Crestview,US,61.84,clear sky,30.7621,-86.5705,"Holiday Inn Express & Suites Crestview South I-10, an IHG Hotel"
+30,Monmouth,US,55.8,few clouds,40.3001,-74.1663,Colts Neck Inn Hotel
+31,Cedar City,US,63.57,clear sky,37.6775,-113.0619,Hampton Inn Cedar City
+32,Vernon,CA,51.33,clear sky,50.2581,-119.2691,Prestige Vernon Lodge and Conference Centre
+35,Aiken,US,55.06,overcast clouds,33.5835,-81.5998,Aiken Cottages
+37,Piney Green,US,62.91,clear sky,34.716,-77.3202,Holiday City Mobile Home Community
 38,El Dorado,US,73.26,overcast clouds,38.7666,-120.5177,South Fork Group Campground
+39,Idaho Falls,US,66.29,clear sky,43.4666,-112.0341,Hilton Garden Inn Idaho Falls
+46,Brigantine,US,52.05,scattered clouds,39.4101,-74.3646,Legacy Vacation Resorts - Brigantine Beach
+47,Meridian,US,62.71,broken clouds,43.6121,-116.3915,Courtyard by Marriott Boise West/Meridian
+48,Shaunavon,CA,53.38,overcast clouds,49.6501,-108.4181,Bear's Den Lodge
+49,Sterling,US,51.15,broken clouds,39.0062,-77.4286,Hampton Inn & Suites Washington-Dulles International Airport
+50,Brownwood,US,61.92,overcast clouds,31.7093,-98.9912,La Quinta Inn & Suites by Wyndham Brownwood
 51,Ensenada,MX,75.51,broken clouds,31.8667,-116.6167,Best Western El Cid
+54,Craig,US,56.82,clear sky,40.5153,-107.5464,"Candlewood Suites Craig-Northwest, an IHG Hotel"
+55,Emmett,US,63.63,overcast clouds,43.8735,-116.4993,Holiday Motel & R.V Park
+56,Mount Vernon,US,56.01,few clouds,40.9126,-73.8371,Ramada by Wyndham Bronx
+57,Mattawa,US,51.8,clear sky,46.7379,-119.9028,Sun & Sand Mobile Home Park
+59,Weatherford,US,56.28,clear sky,32.7593,-97.7972,"Candlewood Suites Weatherford, an IHG Hotel"
+60,Virginia Beach,US,53.65,scattered clouds,36.8529,-75.978,Hilton Virginia Beach Oceanfront
 62,Carson City,US,70.63,clear sky,39.1638,-119.7674,Courtyard by Marriott Carson City
+65,Hope,US,57.25,clear sky,33.6671,-93.5916,Best Western Hope
+66,Ruston,US,51.62,clear sky,32.5232,-92.6379,Sleep Inn & Suites University
 68,Del Rio,US,75.31,clear sky,29.3627,-100.8968,"Holiday Inn Express & Suites del Rio, an IHG Hotel"
-75,Caborca,MX,80.87,clear sky,30.5838,-111.101,Hotel Los Lagos
-89,Cabano,PH,80.89,light rain,10.5869,122.7002,The Clara Beach and Guest House (official)
+70,Atlantic Beach,US,63.07,clear sky,30.3344,-81.3987,One Ocean Resort and Spa
+71,Dothan,US,55.69,scattered clouds,31.2232,-85.3905,Courtyard by Marriott Dothan
+74,Price,US,61.86,clear sky,39.5994,-110.8107,National 9 - Price River Inn
+82,Jackson,US,57.07,clear sky,42.4165,-122.8345,Agate Village Apartments
+86,Mountain Home,US,67.48,clear sky,43.133,-115.6912,Mountain Home Inn
+88,Payson,US,64.38,broken clouds,40.0444,-111.7321,Quality Inn Payson I-15
 91,Winnemucca,US,71.65,clear sky,40.973,-117.7357,Winners Inn Casino
+93,Ledyard,US,50.5,clear sky,41.4398,-72.0142,Stonecroft Country Inn
+95,Havelock,US,62.96,clear sky,34.8791,-76.9013,Sherwood Motel
+96,Dickinson,US,69.75,clear sky,29.4608,-95.0513,Hampton Inn & Suites Houston/League City
+97,Americus,US,57.33,overcast clouds,32.0724,-84.2327,Best Western Plus Windsor Hotel
+98,Toppenish,US,51.8,broken clouds,46.3774,-120.3087,Legends Casino Hotel
+100,Torrington,US,52.34,clear sky,41.8007,-73.1212,The Yankee Pedlar Inn
+101,Glendive,US,56.82,clear sky,47.1053,-104.7125,Baymont by Wyndham Glendive
+103,Rogers,US,51.12,clear sky,36.3668,-95.5836,Claremore Motor Inn
+104,Midland,US,66.25,clear sky,31.9974,-102.0779,DoubleTree by Hilton Hotel Midland Plaza
+111,Lake City,US,60.51,clear sky,30.1897,-82.6393,Ramada Limited Lake City
+116,Mount Pleasant,US,60.98,few clouds,32.7941,-79.8626,Best Western Patriots Point
+117,Farmington,US,65.08,clear sky,36.7281,-108.2187,Courtyard by Marriott Farmington
+119,Sanford,US,65.34,clear sky,28.8006,-81.2731,Best Western Plus Sanford Airport/Lake Mary Hotel
+122,Charlottesville,US,53.76,overcast clouds,38.0293,-78.4767,Hilton Garden Inn Charlottesville
+123,Lockhart,US,65.14,clear sky,28.6194,-81.4426,Courtyard by Marriott Orlando Altamonte Springs/Maitland
+124,Elizabeth City,US,54.01,few clouds,36.2946,-76.2511,Hampton Inn Elizabeth City
+125,Plaistow,US,51.12,clear sky,42.8365,-71.0948,Bear Mountain at Andover
 127,Lompoc,US,73.54,haze,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
-151,Isla Vista,US,83.98,clear sky,34.4133,-119.861,Best Western Plus South Coast Inn
+132,Rawlins,US,55.29,clear sky,41.7911,-107.2387,"Holiday Inn Express Rawlins, an IHG Hotel"
+133,Tallahassee,US,61.0,clear sky,30.4383,-84.2807,Four Points by Sheraton Tallahassee Downtown
+136,Saint Augustine,US,63.09,clear sky,29.8947,-81.3145,St. George Inn
+138,Morris,US,53.2,clear sky,40.8334,-74.5329,Parsippany Inn and Suites Morris Plains
+140,Florence,IT,58.35,clear sky,43.7667,11.25,Hotel Nuova Italia
+141,Cortez,US,59.76,clear sky,37.3489,-108.5859,Sand Canyon National 9 Inn
+148,Great Falls,US,64.85,clear sky,47.5002,-111.3008,La Quinta Inn & Suites by Wyndham Great Falls
+149,Steamboat Springs,US,54.99,clear sky,40.485,-106.8317,Steamboat Grand
+153,Murray,US,66.16,clear sky,40.6669,-111.888,Hampton Inn Salt Lake City/Murray
+154,Mastic Beach,US,50.11,clear sky,40.7668,-72.8521,Brushwood House by Smith Point Beach
 158,Hollister,US,74.17,clear sky,36.8525,-121.4016,Hollister Inn
-168,Adelanto,US,82.83,few clouds,34.5828,-117.4092,Days Inn Adelanto-Victorville
+163,Maple Creek,CA,60.82,overcast clouds,49.9168,-109.4848,Willowbend Campground & Cabins
+165,Prescott,US,69.17,clear sky,34.54,-112.4685,Prescott Resort & Conference Center
+170,Snyder,US,62.94,clear sky,32.7179,-100.9176,"Holiday Inn Express & Suites Snyder, an IHG Hotel"
+172,Lamar,US,55.31,clear sky,33.6668,-95.5836,Kings Inn Paris TX
+173,Lubbock,US,64.15,clear sky,33.6001,-101.8338,La Quinta Inn by Wyndham Lubbock - Downtown Civic Center
+174,Valdosta,US,60.75,clear sky,30.8327,-83.2785,Courtyard by Marriott Valdosta
+175,Poquoson,US,52.0,clear sky,37.1224,-76.3458,Whitehouse Cove
+182,Austin,US,68.68,clear sky,30.2672,-97.7431,The Driskill - In the Unbound Collection by Hyatt
+183,Flagstaff,US,61.3,clear sky,35.1981,-111.6513,Drury Inn & Suites Flagstaff
+184,Redmond,US,50.05,overcast clouds,47.674,-122.1215,Seattle Marriott Redmond
+186,Nampa,US,63.03,broken clouds,43.5407,-116.5635,Nampa Downtown
+188,Miles City,US,61.77,clear sky,46.4083,-105.8406,FairBridge Inn & Suites Miles City
+189,Rapid Valley,US,50.59,clear sky,44.0625,-103.1463,Fairfield Inn & Suites by Marriott Rapid City
 191,Canton,CN,78.75,clear sky,23.1167,113.25,Shangjiuwan Hotel
-206,Port Hueneme,US,84.79,few clouds,34.1478,-119.1951,Hampton Inn Channel Islands Harbor
+194,Plainview,US,53.51,clear sky,40.7765,-73.4673,Four Points by Sheraton Melville Long Island
+197,Atlantic City,US,52.03,scattered clouds,39.3643,-74.4229,Courtyard by Marriott Atlantic City Beach Block
+198,Lufkin,US,55.31,clear sky,31.3382,-94.7291,Courtyard by Marriott Lufkin
+201,Wilmington,US,58.91,clear sky,34.2257,-77.9447,"Hotel Ballast Wilmington, Tapestry Collection by Hilton"
+203,Canyon,US,59.04,clear sky,34.9803,-101.9188,"Holiday Inn Express & Suites Canyon, an IHG Hotel"
+205,Winslow,US,69.98,clear sky,35.0242,-110.6974,Best Western Plus Winslow Inn
+207,Sussex,US,50.31,scattered clouds,41.1834,-74.6663,Top O Hill Farm - McDougals
+211,Fayetteville,US,59.52,haze,35.0527,-78.8784,American Eagle Inn
 214,Safford,US,76.12,clear sky,32.834,-109.7076,SpringHill Suites by Marriott Thatcher
 218,Saint-Raphael,HT,73.53,overcast clouds,19.4333,-72.2,Adouly Hôtel
 221,Marsh Harbour,BS,73.06,overcast clouds,26.5412,-77.0636,Abaco Beach Resort
-256,Pahrump,US,82.51,clear sky,36.2083,-115.9839,Best Western Pahrump Oasis
-269,Butte,US,82.62,clear sky,39.6499,-121.5677,Meadowbrook Oaks Mobile Home Park
+223,Prattville,US,51.31,broken clouds,32.464,-86.4597,InTown Suites Extended Stay Prattville AL
+224,Pendleton,US,50.43,clear sky,45.6721,-118.7886,Americas Best Value Inn Pendleton
+225,Hilton Head Island,US,60.98,few clouds,32.2163,-80.7526,Disney’s Hilton Head Island Resort
+226,Gillette,US,58.8,clear sky,44.2911,-105.5022,National 9 Inn - Gillette WY
+228,Belle Fourche,US,52.32,few clouds,44.6714,-103.8522,Kings Inn
+229,Pecos,US,66.31,clear sky,31.4229,-103.4932,Knights Inn & Suites Pecos
+231,West Odessa,US,64.02,clear sky,31.8424,-102.4988,Corporate Mobile Housing
+232,Boulder,US,55.99,clear sky,40.0833,-105.3505,Deck House Boulder
+234,South Lake Tahoe,US,63.27,clear sky,38.9332,-119.9844,Tahoe Lakeshore Lodge & Spa
+235,Green River,US,59.4,overcast clouds,41.5286,-109.4662,Hampton Inn & Suites Green River
+236,Duncan,US,55.62,clear sky,34.5023,-97.9578,Days Inn by Wyndham Duncan
+239,Brownfield,US,59.95,clear sky,33.1812,-102.2744,"Holiday Inn Express & Suites Brownfield, an IHG Hotel"
+240,Portales,US,57.02,clear sky,34.1862,-103.3344,"Holiday Inn Express & Suites Portales, an IHG Hotel"
+249,Fredericksburg,US,55.62,overcast clouds,38.3032,-77.4605,Courtyard by Marriott Fredericksburg Historic District
+251,Portland,US,52.38,broken clouds,45.5234,-122.6762,Embassy Suites by Hilton Portland Downtown
+252,Show Low,US,59.29,clear sky,34.2542,-110.0298,Hampton Inn & Suites Show Low-Pinetop
+254,Ruidoso,US,53.15,clear sky,33.3317,-105.673,Inn of the Mountain Gods
+255,Aztec,US,63.81,clear sky,36.8222,-107.9929,Presidential Inn & Suites
+263,Westerly,US,52.27,clear sky,41.3776,-71.8273,La Quinta Inn & Suites by Wyndham Stonington-Mystic Area
+271,Copperas Cove,US,61.88,clear sky,31.1241,-97.9031,Super 8 by Wyndham Copperas Cove
+273,Glenwood Springs,US,58.12,clear sky,39.5505,-107.3248,Glenwood Springs Cedar Lodge
+275,Espanola,US,60.64,clear sky,35.9911,-106.0806,Santa Claran Hotel Casino
+276,Canon City,US,57.63,clear sky,38.441,-105.2424,Travel Inn Motel
+283,West Wendover,US,69.01,clear sky,40.7391,-114.0733,"Motel 6 Wendover, UT"
 285,Sidney,AU,73.35,broken clouds,-33.8679,151.2073,The Grace Sydney
+286,Grafton,US,50.83,clear sky,42.207,-71.6856,The Grafton Inn
+291,Murphy,US,59.95,clear sky,33.0151,-96.6131,Southfork Ranch
+293,Cody,US,64.62,clear sky,44.5263,-109.0565,"Holiday Inn Cody-at Buffalo Bill Village, an IHG Hotel"
+294,Deming,US,66.09,clear sky,32.2687,-107.7586,Best Western Deming Southwest Inn
+296,Alexandria,EG,60.76,scattered clouds,31.2156,29.9553,Royal Crown Hotel
+298,Alamogordo,US,65.21,few clouds,32.8995,-105.9603,Fairfield Inn & Suites by Marriott Alamogordo
+299,Stephenville,US,56.16,clear sky,32.2207,-98.2023,La Quinta Inn & Suites by Wyndham Stephenville
+304,Rathdrum,US,50.74,few clouds,47.8137,-116.892,Grizzly Lodge Rathdrum
+320,Edgewater,US,64.42,broken clouds,28.9889,-80.9023,Islander Beach Resort
+322,Brockton,US,53.74,few clouds,42.0834,-71.0184,"Holiday Inn Express Brockton - Boston, an IHG Hotel"
+323,Lakewood,US,61.79,clear sky,39.7047,-105.0814,Sheraton Denver West Hotel
+324,Fort Smith,US,51.84,clear sky,35.3859,-94.3986,Hampton Inn Fort Smith
 325,Billings,US,71.37,broken clouds,45.7833,-108.5007,Best Western Plus Clocktower Inn
+332,Gravelbourg,CA,52.07,overcast clouds,49.8834,-106.5512,Historic Bishops Residence Bed & Breakfast
+333,Bastrop,US,53.28,clear sky,32.7562,-91.8724,Best Budget Inn
+336,Bozeman,US,64.89,clear sky,45.6796,-111.0386,Homewood Suites by Hilton Bozeman
 340,Dublin,US,77.7,clear sky,37.7021,-121.9358,Larkspur Landing Pleasanton
 341,Princeton,US,70.0,clear sky,25.5384,-80.4089,American Best Inn
+342,Shreveport,US,59.0,clear sky,32.5251,-93.7502,Bally's Shreveport Casino & Hotel
+343,Hayden,US,50.49,few clouds,47.766,-116.7866,Triple Play Resort Hotel & Suites
+344,North Myrtle Beach,US,61.05,clear sky,33.816,-78.68,Avista Resort
+345,Watertown,US,53.31,clear sky,42.3709,-71.1828,16 Washburn Street Watertown MA
+347,Tucumcari,US,55.94,clear sky,35.1717,-103.725,"Holiday Inn Express & Suites Tucumcari, an IHG Hotel"
+349,Susanville,US,66.09,few clouds,40.4163,-120.653,Comfort Inn & Suites
+353,Bow Island,CA,61.81,overcast clouds,49.8668,-111.3684,Silver Sage Motel
+358,Callaway,US,64.33,scattered clouds,30.153,-85.5699,"Holiday Inn Express & Suites Panama City-Tyndall, an IHG Hotel"
+359,Colorado Springs,US,54.81,clear sky,38.8339,-104.8214,"The Antlers, A Wyndham Hotel"
+363,Cumberland,US,59.5,haze,35.0502,-78.8664,American Eagle Inn
+366,Parker,US,60.51,clear sky,32.7668,-97.8003,"Candlewood Suites Weatherford, an IHG Hotel"
+369,San Angelo,US,66.42,clear sky,31.4638,-100.437,"Motel 6 San Angelo, TX"
+370,Puerto Palomas,MX,63.77,clear sky,31.7667,-107.6167,Hotel San Carlos
+371,Belen,TR,55.54,scattered clouds,36.4891,36.2233,Varlıbaş Uyku Sarayı
+374,Vicente Guerrero,MX,54.79,overcast clouds,19.1194,-98.1708,Instituto De Seguridad Y Servicios Sociales De Los Trabajadores Del Estado
 376,Fremont,US,78.51,clear sky,37.5483,-121.9886,Best Western Plus Garden Court Inn
 377,Praxedis Guerrero,MX,72.86,clear sky,31.3667,-106.0167,Congregación placitas de Otero
+378,Winfield,US,50.77,clear sky,37.2398,-96.9956,Sonner Motor Inn
 379,Cumpas,MX,72.77,clear sky,29.9833,-109.7833,Hotel La Palma
 382,Ojinaga,MX,72.55,clear sky,29.5667,-104.4167,Suites Las Palmas
-387,Yucaipa,US,84.2,clear sky,34.0336,-117.0431,Yucaipa Regional Park
-399,Green Valley,US,84.27,clear sky,31.8543,-110.9937,Best Western Green Valley Inn
+383,Enid,US,50.02,clear sky,36.3956,-97.8784,Ramada by Wyndham Enid
+393,Loveland,US,59.29,clear sky,40.3978,-105.075,La Quinta Inn & Suites by Wyndham Loveland
+395,Palm Coast,US,64.0,clear sky,29.585,-81.2078,Hammock Beach Golf Resort & Spa
+396,Terrell,US,60.19,clear sky,32.736,-96.2753,"Holiday Inn Express & Suites Terrell, an IHG Hotel"
+397,Truckee,US,66.52,clear sky,39.328,-120.1833,Truckee Donner Lodge
+401,Hailey,US,62.46,clear sky,43.5196,-114.3153,Wood River Inn & Suites
+402,Cananea,MX,62.58,clear sky,30.95,-110.3,Casas Montoya
 405,Bagotville,AU,77.02,broken clouds,-28.9833,153.4167,Broadwater Sunrise Caravan Park
+410,Lexington Park,US,54.64,broken clouds,38.2668,-76.4538,TownePlace Suites by Marriott Lexington Park Patuxent River Naval Air Station
+419,Pueblo,US,60.75,clear sky,38.2545,-104.6091,Courtyard by Marriott Pueblo Downtown
+420,Springhill,US,53.49,clear sky,33.006,-93.4668,Holiday Motel
 421,Puerto Penasco,MX,79.92,broken clouds,31.3167,-113.5333,Playa Bonita Resort
+422,Labelle,US,69.82,scattered clouds,26.7617,-81.4384,Port LaBelle Inn
+426,Richmond,US,55.38,broken clouds,37.5538,-77.4603,"Holiday Inn Express Richmond - Downtown, an IHG Hotel"
+433,Kimberley,ZA,55.09,overcast clouds,-28.7323,24.7623,Welgewandel Guesthouse
+435,Helena,US,63.59,clear sky,46.5927,-112.0361,"Holiday Inn Express & Suites Helena, an IHG Hotel"
+436,Norfolk,US,52.92,few clouds,42.1668,-71.2495,Residence Inn by Marriott Boston Norwood/Canton
+440,Van Buren,US,51.82,clear sky,35.4368,-94.3483,Hampton Inn Van Buren
+441,Fort Morgan,US,50.65,clear sky,40.2503,-103.8,Hampton Inn Fort Morgan
 444,Charlestown,AU,73.69,broken clouds,-32.95,151.6667,Panorama Motor Inn Hotel
+445,Liberal,US,53.74,clear sky,37.0431,-100.921,Hampton Inn & Suites Liberal
 447,Belmont,US,74.16,haze,37.5202,-122.2758,"Holiday Inn Express & Suites Belmont, an IHG Hotel"
-453,Ridgecrest,US,84.69,clear sky,35.6225,-117.6709,SpringHill Suites by Marriott Ridgecrest
-466,Dixon,US,84.34,clear sky,38.4455,-121.8233,Best Western Plus Dixon Davis
+448,Tooele,US,63.19,scattered clouds,40.5308,-112.2983,"Holiday Inn Express & Suites Tooele, an IHG Hotel"
+451,Bossier City,US,58.95,clear sky,32.516,-93.7321,Horseshoe Bossier City
+452,Jacksonville,US,63.05,clear sky,30.3322,-81.6556,Hyatt Regency Jacksonville Riverfront
+459,Hays,US,65.46,clear sky,30.0502,-98.0336,Sinya on Lone Man Creek
+462,Moss Point,US,59.05,scattered clouds,30.4116,-88.5345,"Holiday Inn Express Pascagoula-Moss Point, an IHG Hotel"
+464,Somerset,US,56.23,clear sky,40.5668,-74.5496,Hilton Garden Inn Bridgewater
+467,Cottonwood Heights,US,63.99,clear sky,40.6197,-111.8102,Residence Inn by Marriott Salt Lake City Cottonwood
+470,Point Pleasant,US,54.0,few clouds,40.0832,-74.0682,Point Pleasant Manor
 471,San Felipe,VE,72.59,overcast clouds,10.3399,-68.7425,Posada Llovizna Rodríguez
+474,Gallup,US,61.56,clear sky,35.5281,-108.7426,Quality Inn & Suites Gallup I-40 Exit 20
+476,Tyler,US,57.25,clear sky,32.3513,-95.3011,Quality Inn Tyler - Lindale
+479,Guymon,US,55.4,clear sky,36.6828,-101.4816,Simple Rewards
+480,Scottsbluff,US,56.52,clear sky,41.8666,-103.6672,Hampton Inn & Suites Scottsbluff-Conference Center
+483,Assiniboia,CA,51.62,broken clouds,49.6334,-105.9845,Canalta Hotel Assiniboia
+486,Pineville,US,55.29,clear sky,31.3224,-92.4343,"Country Inn & Suites by Radisson, Pineville, LA"
 487,Tulare,US,76.33,few clouds,36.2666,-118.8009,Puppy
+491,Seagoville,US,59.77,clear sky,32.6396,-96.5383,Seagoville Inn Seagoville
+494,Lewisville,US,59.43,clear sky,33.0462,-96.9942,Best Western Plus Hotel Lewisville Flower Mound
 496,Maneadero,MX,77.11,overcast clouds,31.7167,-116.5667,Casa De Thompson
+499,Commack,US,51.51,clear sky,40.8429,-73.2929,Hampton Inn Long Island/Commack
+500,Jerome,US,65.23,clear sky,42.7241,-114.5186,Best Western Sawtooth Inn & Suites
+504,Hattiesburg,US,53.53,broken clouds,31.3271,-89.2903,Deluxe Inn
+509,Ocean City,US,52.99,overcast clouds,39.2776,-74.5746,Biscayne Suites
+510,Sapulpa,US,52.36,clear sky,35.9987,-96.1142,Super 8 by Wyndham Sapulpa/Tulsa Area
+511,Lakeway,US,66.69,clear sky,30.3638,-97.9796,Lakeway Resort & Spa
+514,Sandpoint,US,51.94,overcast clouds,48.2766,-116.5533,Hotel Ruby Sandpoint/Ponderay
+516,Forestville,US,52.36,broken clouds,38.8451,-76.875,Quality Inn Near Joint Base Andrews-Washington Area
+518,Brewster,US,51.55,few clouds,41.3973,-73.6171,Heidi's Inn
+520,Canyon Lake,US,66.42,clear sky,29.8752,-98.2625,The Lodge At Turkey Cove
+522,New Bedford,US,52.25,clear sky,41.6362,-70.9342,Fairfield Inn & Suites by Marriott New Bedford
+523,Bryan,US,60.69,clear sky,30.6744,-96.37,Best Western Premier Bryan College Station
+525,Thomasville,US,51.42,overcast clouds,35.8826,-80.082,Comfort Inn Thomasville I-85
+526,Weiser,US,55.6,few clouds,44.251,-116.9693,The Colonial Motel
+527,Arroyo Grande,US,67.05,clear sky,35.1186,-120.5907,Pismo View Inn
+528,Medicine Hat,CA,63.03,broken clouds,50.0501,-110.6683,Sun Dek Motel
+529,Cheyenne,US,55.54,clear sky,41.14,-104.8203,The Historic Plains Hotel & Restaurant
 530,Camalu,MX,70.99,few clouds,30.85,-116.0667,La Cueva del Pirata
+534,Winthrop,US,53.08,clear sky,42.3751,-70.9828,Courtyard by Marriott Boston Logan Airport
+536,Williston,US,51.04,clear sky,48.147,-103.618,Hampton Inn & Suites Williston
+541,Las Cruces,US,69.6,clear sky,32.3123,-106.7783,SpringHill Suites by Marriott Las Cruces
+543,Silver City,US,59.67,clear sky,32.7701,-108.2803,Copper Manor Motel
+544,Saint Andrews,US,56.98,overcast clouds,34.0454,-81.1293,Baymont by Wyndham Columbia Northwest
+546,Casper,US,55.81,clear sky,42.8666,-106.3131,Ramkota Hotel
 548,Socorro,US,73.18,clear sky,31.6546,-106.3033,guarderia imss papalote
+550,Orangeburg,US,57.16,scattered clouds,33.4918,-80.8557,Palmetto Inn & Suites
+554,Effingham,US,61.25,broken clouds,32.3669,-81.3332,Countryside Village
+555,Santa Maria,BR,61.9,few clouds,-29.6842,-53.8069,Hotel Morotin
+556,Broken Arrow,US,52.25,clear sky,36.0526,-95.7908,"Holiday Inn Express & Suites Tulsa S Broken Arrow Hwy 51, an IHG Hotel"
+557,Baker,US,60.75,clear sky,30.5882,-91.1682,Executive Inn And Suites Baker
+558,Carteret,US,56.37,clear sky,40.5773,-74.2282,Hotel Executive Suites
+560,Magna,US,65.68,clear sky,40.7091,-112.1016,Kopper View Manufactured Home Community
+561,Valparaiso,CL,57.47,mist,-33.0393,-71.6273,Hotel Ultramar
+562,Saint-Alexandre,FR,54.3,overcast clouds,44.2278,4.6214,Hôtel Le Valaurie
+563,Springville,US,64.65,broken clouds,40.1652,-111.6107,Best Western Mountain View Inn
 566,Geraldton,AU,70.21,overcast clouds,-28.7667,114.6,Broadwater Mariner Resort
-598,Enterprise,US,84.74,few clouds,36.0252,-115.2419,Las Vegas Motorcoach Resort
+567,South Valley,US,65.39,clear sky,35.0101,-106.6781,desert palms rv park
+568,Los Alamos,US,54.01,clear sky,35.8881,-106.307,"Holiday Inn Express & Suites Los Alamos Entrada Park, an IHG Hotel"
+572,Lamesa,US,58.51,clear sky,32.7376,-101.951,Shiloh Inn Lamesa
+580,Arlington,US,60.31,clear sky,32.7357,-97.1081,817 Hotel Days Inn by Wyndham ATT Stadium/Texas Live
+582,Rock Springs,US,58.44,clear sky,41.5875,-109.2029,Homewood Suites by Hilton Rock Springs
+583,Abilene,US,62.82,clear sky,32.4487,-99.7331,La Quinta Inn by Wyndham Abilene
+587,Choctaw,US,54.1,clear sky,35.4976,-97.2689,Woodland Hills Mobile Home Prk
+589,Tifton,US,60.73,overcast clouds,31.4505,-83.5085,Hilton Garden Inn Tifton
+590,Andrews,US,61.86,clear sky,32.3187,-102.5457,Days Inn by Wyndham Andrews Texas
+593,Sheridan,US,59.38,clear sky,44.8333,-106.9173,Comfort Inn & Suites
+594,Los Lunas,US,65.66,clear sky,34.8062,-106.7334,Western Skies Inns & Suites
+595,Newberry,US,52.47,clear sky,34.2746,-81.6187,Hampton Inn Newberry-Opera House
+596,Dillon,US,59.25,broken clouds,34.4166,-79.3712,Dillon Express Inn
+599,Morro Bay,US,68.58,scattered clouds,35.3658,-120.8499,Inn at Morro Bay
+600,Walla Walla,US,50.77,clear sky,46.0646,-118.343,"Holiday Inn Express Walla Walla, an IHG Hotel"
+603,Trenton,US,53.92,clear sky,40.217,-74.7429,Budget Inn
+604,Big Spring,US,61.23,clear sky,32.2504,-101.4787,Hampton Inn & Suites Big Spring
+607,Laurel,US,52.48,broken clouds,39.0993,-76.8483,Days Inn & Suites by Wyndham Laurel Near Fort Meade
+610,Orchard Homes,US,51.94,overcast clouds,46.8633,-114.0484,Broadway Inn Missoula
 615,Seaforth,JM,79.65,broken clouds,17.9358,-76.4573,"Stewart Field, Seaforth P.O., St. Thomas"
-616,Woodland,US,84.34,few clouds,38.6785,-121.7733,Hampton Inn & Suites Woodland-Sacramento Area
+617,Carrollton,US,59.43,clear sky,32.9537,-96.8903,Lone Star Inn
 620,Trinidad,BO,75.61,overcast clouds,-14.8333,-64.9,Hotel Piesta
+621,Athens,GR,61.23,clear sky,37.9795,23.7162,Safestay Athens
 624,Deloraine,AU,70.59,overcast clouds,-41.5333,146.6667,Mountain View Country Inn
-628,Chico,US,84.29,clear sky,39.7285,-121.8375,Quality Inn Near Chico State
-642,Linda,US,84.54,clear sky,39.1277,-121.5508,Comfort Suites Marysville-Yuba City
-743,Oroville,US,84.4,clear sky,39.5138,-121.5564,"Holiday Inn Express & Suites Oroville Lake, an IHG Hotel"
-758,Boulder City,US,84.85,clear sky,35.9786,-114.8325,Boulder Dam Hotel
+632,Rexburg,US,65.71,clear sky,43.826,-111.7897,AmericInn by Wyndham Rexburg BYUI
+638,Cheney,US,50.02,smoke,47.4874,-117.5758,"Holiday Inn Express & Suites Cheney, an IHG Hotel"
+643,Lawton,US,55.63,clear sky,34.6087,-98.3903,Holiday Inn Express & Suites Lawton-Fort Sill
+645,Plymouth,US,52.18,broken clouds,41.8334,-70.8328,Rodeway Inn Middleboro-Plymouth
+648,Texarkana,US,57.42,clear sky,33.4251,-94.0477,"Holiday Inn Express & Suites Texarkana, an IHG Hotel"
+649,College Place,US,51.3,clear sky,46.0493,-118.3883,"Holiday Inn Express Walla Walla, an IHG Hotel"
+651,Hinesville,US,59.13,scattered clouds,31.8469,-81.5959,"Holiday Inn Express & Suites Hinesville East - Fort Stewart, an IHG Hotel"
+652,Swift Current,CA,59.81,scattered clouds,50.2834,-107.8014,"Motel 6 Swift Current, SK"
+654,Spokane,US,50.09,smoke,47.6166,-117.3677,Madison Inn by Riversage
+657,Howard,US,50.95,light rain,39.2504,-76.933,The Columbia Inn at Peralynna
+659,Natchitoches,US,54.45,clear sky,31.7668,-93.1335,Super 8 by Wyndham Natchitoches
+663,Levelland,US,59.2,clear sky,33.5873,-102.378,"Holiday Inn Express & Suites Levelland, an IHG Hotel"
+664,Eatonton,US,52.88,scattered clouds,33.3268,-83.3885,Western Motel of Eatonton
+670,Ken Caryl,US,59.09,clear sky,39.5773,-105.1169,Hampton Inn & Suites Denver Littleton
+671,Mint Hill,US,51.64,overcast clouds,35.1796,-80.6473,Meadowbrook
+672,Chubbuck,US,62.49,few clouds,42.9208,-112.4661,Quality Inn
+675,Caldwell,US,67.87,scattered clouds,43.6629,-116.6874,La Quinta Inn by Wyndham Caldwell
+677,Burlington,US,53.78,overcast clouds,39.8835,-74.6413,Delanco Camp
+678,Grants,US,53.83,clear sky,35.1473,-107.8514,"Motel 6 Grants, NM"
+680,Anaconda,US,58.19,broken clouds,46.1285,-112.9423,Trade Wind Motel
+684,Port Washington,US,55.98,few clouds,40.8257,-73.6982,"The Roslyn, Tapestry Collection by Hilton"
+696,Leander,US,64.8,clear sky,30.5788,-97.8531,NW Austin KOA Holiday
+697,Tuckahoe,US,55.31,overcast clouds,37.5901,-77.5564,The Westin Richmond
+700,Evans,US,54.61,scattered clouds,33.5337,-82.1307,Evans hide out
+701,Pinehurst,US,58.3,scattered clouds,35.1954,-79.4695,SpringHill Suites by Marriott Pinehurst Southern Pines
+703,Mineral Wells,US,55.65,clear sky,32.8085,-98.1128,The Baker Hotel and Spa
+707,Jacksonville Beach,US,63.07,clear sky,30.2947,-81.3931,Courtyard by Marriott Jacksonville Beach Oceanfront
+711,Dumas,US,55.54,clear sky,35.8656,-101.9732,"Holiday Inn Express & Suites Dumas, an IHG Hotel"
+712,Belgrade,RS,58.66,clear sky,44.804,20.4651,Saruna Wellness - Hotel Park Belgrade
+720,Troutdale,US,50.05,overcast clouds,45.5393,-122.3873,McMenamins Edgefield
+723,Mustang,US,53.35,clear sky,35.3842,-97.7245,Luxury Inn
+724,Harrison,US,59.05,clear sky,30.4091,-89.0436,Residence Inn by Marriott Gulfport-Biloxi Airport
+726,Raton,US,52.05,clear sky,36.9034,-104.4391,"Holiday Inn Express & Suites Raton, an IHG Hotel"
+728,Esqueda,MX,65.32,clear sky,30.7167,-109.5833,Hotel Esqueda
+733,Zachary,US,60.67,clear sky,30.6485,-91.1565,"Holiday Inn Express & Suites Baton Rouge North, an IHG Hotel"
+735,Casas Grandes,MX,64.44,clear sky,30.3667,-107.95,Pueblo del Soul B&B
+737,Rio Rancho,US,64.15,clear sky,35.2334,-106.6645,Hilton Garden Inn Albuquerque North/Rio Rancho
+738,Pottstown,US,52.09,overcast clouds,40.2454,-75.6496,"Motel 6 Pottstown, PA"
+739,Montgomery,US,50.22,broken clouds,39.1501,-77.1997,"Holiday Inn Gaithersburg, an IHG Hotel"
+740,Beaverton,US,50.13,scattered clouds,45.4871,-122.8037,Best Western Portland West Beaverton
+751,Hobbs,US,59.67,few clouds,32.7026,-103.136,Best Western Executive Inn
+752,Brookhaven,US,51.46,few clouds,31.5791,-90.4407,Americas Best Value Inn Brookhaven
+753,Natchez,US,57.42,clear sky,31.5604,-91.4032,Hampton Inn & Suites Natchez
+756,Rockland,US,53.85,broken clouds,41.1668,-74.0496,National Camp Association
+761,Fort Walton Beach,US,62.58,few clouds,30.4058,-86.6188,Best Western Ft. Walton Beachfront
+767,Vicksburg,US,56.88,scattered clouds,32.3526,-90.8779,La Quinta Inn & Suites by Wyndham Vicksburg
+770,Rupert,US,66.15,clear sky,42.6191,-113.6772,Uptown Motel
+772,Burkburnett,US,58.78,clear sky,34.0979,-98.5706,Best Western Red River Inn
 773,Kingston,JM,79.75,few clouds,17.997,-76.7936,The Jamaica Pegasus Hotel
+774,Fernandina Beach,US,63.03,clear sky,30.6697,-81.4626,Hampton Inn Amelia Island at Fernandina Beach
 777,Martinez,US,74.7,broken clouds,38.0194,-122.1341,Best Western John Muir Inn
 779,Altar,MX,78.4,scattered clouds,30.7,-111.8167,Hotel Maria Elena
-806,Carpinteria,US,81.37,clear sky,34.3989,-119.5185,"Holiday Inn Express & Suites Carpinteria, an IHG Hotel"
-811,Estacion Coahuila,MX,84.25,scattered clouds,32.1939,-115.0017,Hotel Las Cabañas
+781,Carrboro,US,57.7,broken clouds,35.9101,-79.0753,The Carolina Inn
+782,Glassboro,US,53.13,overcast clouds,39.7029,-75.1118,Courtyard by Marriott Glassboro Rowan University
+785,Bernalillo,US,65.34,clear sky,35.05,-106.6673,DoubleTree by Hilton Hotel Albuquerque
+789,Moultrie,US,60.91,scattered clouds,31.1799,-83.7891,Moultrie Inn
+792,Carthage,TN,56.73,few clouds,36.8611,10.3316,Dar Fatma
+793,Norman,US,54.01,clear sky,35.2226,-97.4395,"Country Inn & Suites by Radisson, Norman, OK"
+794,Agua Prieta,MX,69.01,clear sky,31.3,-109.5667,Hotel Real de Agua Prieta
+796,Longview,US,55.65,clear sky,32.5007,-94.7405,Homewood Suites by Hilton Longview
+799,Hewitt,US,62.35,clear sky,31.4624,-97.1958,Ramada by Wyndham South Waco
+801,Bloomfield,US,55.63,clear sky,40.8068,-74.1854,Troy Carroll
+803,Glen Allen,US,55.4,overcast clouds,37.666,-77.5064,Courtyard by Marriott Richmond North/Glen Allen
+807,Mount Holly,US,52.32,broken clouds,35.2982,-81.0159,"Holiday Inn Express & Suites Charlotte Arpt-Belmont, an IHG Hotel"
+808,Riverton,US,65.16,clear sky,40.5219,-111.9391,Ramada by Wyndham Draper
+809,Osoyoos,CA,57.61,broken clouds,49.0331,-119.4524,Watermark Beach Resort
+810,Lovington,US,58.17,clear sky,32.944,-103.3485,Buena vida rv parks
+813,Elk City,US,52.02,clear sky,35.412,-99.4043,Hampton Inn & Suites Elk City
+814,Worland,US,60.89,clear sky,44.0169,-107.9554,Town House Motor Inn
+816,Newark,US,55.9,few clouds,40.7357,-74.1724,"Robert Treat Hotel, BW Premier Collection"
+819,Kingsland,US,62.96,broken clouds,30.8,-81.6898,Microtel Inn & Suites by Wyndham Kingsland
+820,Saint Simons,US,62.64,broken clouds,31.1352,-81.3901,"Holiday Inn Express Saint Simons Island, an IHG Hotel"
 822,Kingman,US,79.05,clear sky,35.1894,-114.053,Rodeway Inn Kingman Route 66
-825,Lodi,US,84.65,overcast clouds,38.1302,-121.2725,Wine & Roses
+824,Altus,US,58.51,clear sky,34.6381,-99.334,"Holiday Inn Express & Suites Altus, an IHG Hotel"
